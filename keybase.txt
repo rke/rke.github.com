@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rke.tv
+  * I am rke (https://keybase.io/rke) on keybase.
+  * I have a public key with fingerprint B01B 98F5 4C16 D6F2 19E8  3807 5BC0 E9AA 1558 FE51
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b01b98f54c16d6f219e838075bc0e9aa1558fe51",
+            "host": "keybase.io",
+            "key_id": "5bc0e9aa1558fe51",
+            "kid": "010198631f15209e908b3ec29fb0da7d6bc9a5af6d2cb8f3779d2f6d6778c83155800a",
+            "uid": "9f8a9d66ab54e0208c2e3add25a71019",
+            "username": "rke"
+        },
+        "service": {
+            "hostname": "rke.tv",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429155933,
+    "expire_in": 157680000,
+    "prev": "75cb954949b99942a21b4322625804c547e9a42ec3cd41276c763eca588e9dea",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIRAnicbVJbSBRRGN51XS03u7wUQUQMYlCLzpy5nhVZKzNQoasVpGxzZs7sTurO
+7uy4KSJEiHRRwYpKAisTSouerFB60PIpLxRWWpLShcIEJaPEyuqMFL30dDj//33f
+/3/fOX2pLkeKM2n2RE59uyQ4+3v5CkdRJl1STSFDraJ81VQpXjw0PRzEZsTUwxbl
+oxDNIChpPKcwgipogIFYYiVa5JFCYyjLDM9LGuYZykuFjJjNIDJIjuEM3SA1cgno
+Kqn+B1+62KAZmoGSwDIawwMaYkhLiMUKgBqiVVlUBaRAmZc1QQUKkjRWFKEKyE0Q
+RUmRWFuPpmUiV7EoBzVJhqogyIjnMA1oSQGYlVUV8LJoT7KBMWyG5XJM0GYppmq8
+FCnEdQXb7m0T/5oZVpwQIqZhGYpRRmohy4r4bIpVFbExRzEK/GEHkB5WSXaEEMdm
+TDfClI8hSMXSbTmGA5AsC1nWS+HKiG7igG4jeFEgBmjaHoPjRFLkFQR5DnIQQQg5
+IAMGcSwAAiBOOYXnRJIjB7DCKirHAFFQRIEEJvOShKGK7ShiOBo2KB9H1pSDRDKm
+B8OyVWESsw96ihMdzhRHkjvBfn1HytKVf/+EMJ/8k95ybmB8Y+fs7byP69z5LQsX
+PMc/ZXoMf8JOad9dmJzV7B90e6Kt7bm4tt2Qyv17J0UTzDVNRz+7Xh706nW5/rM3
+L1WmDjv6Do3PTbVNrx9Nu5g+2XnZkzDktJbXdb99kn+ttu1RQej6G3dj2vuutcW7
+Pdt3ZQdmvGMPhx47XtU1TybeWTI903CvpXzN4Qk4WsDkneppuTHBDw7UV3z9ceVF
+b7ztafY7V+uHX3uaXBMZVvf3wi9Xzw/PBIu/TSWh3hL3NmYhVJR7evWBHWMr9o80
+9GTNd4j9Z9DWk8+OlKl79fRbx1Y937yhoyansbs/Wtg1Em9oXPY6IGy6r/mGx38D
+C+oi2w==
+=YoCt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rke
+
+==================================================================
+
